@@ -2,21 +2,13 @@
 
 （中文 | [English](README_en.md) | [日本語](README_ja.md)）
 
-这是虾哥的第一个硬件作品我是测试ssssssssssssssssssss。
+这是虾哥的第一个硬件作品s。
 
 👉 [ESP32+SenseVoice+Qwen72B打造你的AI聊天伴侣！【bilibili】](https://www.bilibili.com/video/BV11msTenEH3/?share_source=copy_web&vd_source=ee1aafe19d6e60cf22e60a93881faeba)
 
 👉 [手工打造你的 AI 女友，新手入门教程【bilibili】](https://www.bilibili.com/video/BV1XnmFYLEJN/)
 
-## 项目目的
 
-本项目基于乐鑫的 ESP-IDF 进行开发。
-
-本项目是一个开源项目，主要用于教学目的。我们希望通过这个项目，能够帮助更多人入门 AI 硬件开发，了解如何将当下飞速发展的大语言模型应用到实际的硬件设备中。无论你是对 AI 感兴趣的学生，还是想要探索新技术的开发者，都可以通过这个项目获得宝贵的学习经验。
-
-欢迎所有人参与到项目的开发和改进中来。如果你有任何想法或建议，请随时提出 Issue 或加入群聊。
-
-学习交流 QQ 群：946599635
 
 ## 已实现功能
 
